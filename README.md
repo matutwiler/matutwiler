@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matutwiler
 - 👀 I’m interested in HTML, CSS, Python, JavaScript
 - 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on script for GIS and SQL database automation
+- 💞️ I’m looking to collaborate on scripts for GIS and SQL database automation
 - 📫 How to reach me ...
 
 <!---
